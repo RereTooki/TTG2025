@@ -38,26 +38,11 @@ const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose }) => {
               <p className="mt-8 text-sm/6 text-gray-500 hover:text-gray-700 shadow rounded-lg p-4">
                 <div className="containers mx-auto sborder-4 border-black max-h-[40vh] soverflow-y-scroll scroll scrollModal overflow-y-scroll pr-2">
                   <p>
-                    Hello and welcome to the TTG 2025 hub! <br></br> <br></br>{" "}
-                    Here, you'll find every scripture, book and quote taught so
-                    far this semester. Also, there's now a quiz feature.
+                    Class of 2025, welcome. <br></br> <br></br> This would help
+                    prepare for our exam tomorrow. I wish us all the best.
+                    Congrats to us all.
                     <br></br>
-                    <br></br>{" "}
-                    <span className="font-extrabold">
-                      Please fill this survey form for my FYP:{" "}
-                      <a
-                        href="https://forms.gle/idXSFn5NGUbiFGha9"
-                        target="_blank"
-                        title="My FYP Form"
-                        className="underline underline-offset-2 hover:underline-offset-4 hover:scale-[1.08] transition ease-in-out duration-500 delay-10 "
-                      >
-                        {" "}
-                        Click Here
-                      </a>{" "}
-                    </span>{" "}
-                    <br></br>
-                    <br></br>P.S. READ YOUR NOTES TOO<br></br>P.S. Check this
-                    out:{" "}
+                    <br></br> P.S. Check this out:{" "}
                     <a
                       href="https://rere-tooki.vercel.app/"
                       target="_blank"
